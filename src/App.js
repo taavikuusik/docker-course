@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload. Moo5.
+            Edit <code>src/App.js</code> and save to reload. Moo feature!
           </p>
           <a
             className="App-link"
